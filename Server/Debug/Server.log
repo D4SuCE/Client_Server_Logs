@@ -1,0 +1,5 @@
+﻿  main.cpp
+  server.cpp
+D:\Work\Cpp\Different Projects\Client_Server(logs)\Server\src\server.cpp(60,26): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Server.vcxproj -> D:\Work\Cpp\Different Projects\Client_Server(logs)\Debug\Server.exe
